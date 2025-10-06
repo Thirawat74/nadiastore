@@ -22,7 +22,7 @@ export default function Home() {
       <div>
         <p className="text-5xl sm:text-7xl">ยินดีต้อนรับเข้าสู่</p>
         <span className="text-3xl sm:text-5xl font-bold bg-gradient-to-r from-blue-500 to-white-500 text-transparent bg-clip-text">
-          Nadia Store
+          NADIA STORE
         </span>
         <div className="flex justify-center space-x-4 mt-6">
           <AlertDialog>
