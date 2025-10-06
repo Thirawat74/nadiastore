@@ -82,7 +82,7 @@ h6 {
     --radius: 0.5rem;
     --navbar-height: 60px;
     --footer-height: 100px;
-    --primary: var(--theme) 90% 50%;
+    --primary: var(--theme) 100% 50%;
     --primary-foreground: 0 0% 98%;
     --secondary: var(--theme) 100% 90%;
     --secondary-foreground: var(--theme) 95% 35%;
@@ -107,7 +107,7 @@ h6 {
     --sidebar-ring: 217.2 91.2% 59.8%;
   }
   .dark {
-    --background: var(--theme) 25% 7%;
+    --background: var(--theme) 2% 100%;
     --foreground: 0 0% 95%;
     --card: var(--theme) 20% 12%;
     --card-foreground: 0 0% 95%;
