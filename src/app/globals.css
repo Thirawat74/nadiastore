@@ -108,7 +108,7 @@ h6 {
   }
   .dark {
     --background: var(--theme) 2% 100%;
-    --foreground: 0 0% 95%;
+    --foreground: 0 0% 0%;
     --card: var(--theme) 20% 12%;
     --card-foreground: 0 0% 95%;
     --card-hover: var(--theme) 100% 10%;
